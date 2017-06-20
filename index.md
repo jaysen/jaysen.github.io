@@ -9,6 +9,7 @@ In the meantime checkout the following:
 - [my c2 wiki page](http://wiki.c2.com/?JaysenNaidoo) 
 - [@jaysen on twitter](http://twitter.com/jaysen)
 - [my facebook page](https://facebook.com/jaysenn)
+- [jaysen@joindiaspora.com](https://joindiaspora.com/people/4cfca20a2c17431c6b001d3e)
 - [my social bookmarks](https://pinboard.in/u:jaysen)
 - [my keybase page](https://keybase.io/jaysen)
 
