@@ -1,1 +1,12 @@
+
+
+title: jaysen naidoo (za)
+url: "http://jaysen.github.io" # the base hostname & protocol for your site
+email: jaysen@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+
+twitter_username: jaysen
+github_username:  jaysen
+
 theme: jekyll-theme-midnight
