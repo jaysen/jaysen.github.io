@@ -1,5 +1,4 @@
 
-## whoami
 Jaysen Naidoo - dreams of public software. living in Johannesburg, South Africa.
 
 ## online
