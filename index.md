@@ -10,6 +10,7 @@ Jaysen Naidoo - dreams of public software. living in Johannesburg, South Africa.
 - [my wiki](https://jaysen.github.io/wiki/Home.html)  -- on [WikidPad](http://wikidpad.sourceforge.net/)  
 
 - [github](https://github.com/jaysen)
+- [stackoverflow](https://stackoverflow.com/users/714201/jaysen)
 - [my keybase page](https://keybase.io/jaysen)
 
 - my [hypothes.is](https://hypothes.is/users/jaysen) userpage
