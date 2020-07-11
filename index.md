@@ -1,9 +1,8 @@
 
 ## whoami
-Jaysen Naidoo - does some software developement and dreams of public software. living in Johannesburg, South Africa.
+Jaysen Naidoo - dreams of public software. living in Johannesburg, South Africa.
 
-## More stuff coming soon ...
-In the meantime checkout the following:
+## online
 - [github](https://github.com/jaysen)
 - my [hypothes.is](https://hypothes.is/users/jaysen) userpage
 - [my social bookmarks](https://pinboard.in/u:jaysen)
@@ -14,5 +13,6 @@ In the meantime checkout the following:
 - [jaysen@joindiaspora.com](https://joindiaspora.com/people/4cfca20a2c17431c6b001d3e)
 - [my keybase page](https://keybase.io/jaysen)
 - [my blog](http://jaysenn.blogspot.com) of sorts
+- my WikidPad(http://wikidpad.sourceforge.net/) based [wiki](at https://jaysen.github.io/wiki/Home.html)
 
-send me a direct message on twitter if you need to get in touch.
+send me a direct message on [twitter](http://twitter.com/jaysen) if you need to get in touch.
