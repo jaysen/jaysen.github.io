@@ -15,4 +15,6 @@ Jaysen Naidoo - dreams of public software. living in Johannesburg, South Africa.
 - [my blog](http://jaysenn.blogspot.com) of sorts
 - [my wiki](https://jaysen.github.io/wiki/Home.html)  -- on [WikidPad](http://wikidpad.sourceforge.net/)  
 
+
+## contact
 send me a direct message on [twitter](http://twitter.com/jaysen) if you need to get in touch.
