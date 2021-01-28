@@ -5,6 +5,8 @@ Jaysen Naidoo - dreams of public software. living in Johannesburg, South Africa.
 
 - [@jaysen on twitter](http://twitter.com/jaysen)
 - [my facebook page](https://facebook.com/jaysenn)
+- <a rel="me" href="https://mastodon.social/@jaysen">@jaysen@mastodon.social</a>
+- [jaysen@joindiaspora.com](https://joindiaspora.com/people/4cfca20a2c17431c6b001d3e)
 
 - [my blog](http://jaysenn.blogspot.com) of sorts
 - [my wiki](https://jaysen.github.io/wiki/Home.html)  -- on [WikidPad](http://wikidpad.sourceforge.net/)  
@@ -17,7 +19,7 @@ Jaysen Naidoo - dreams of public software. living in Johannesburg, South Africa.
 - [my social bookmarks](https://pinboard.in/u:jaysen)
 
 - [my c2 wiki page](http://wiki.c2.com/?JaysenNaidoo) 
-- [jaysen@joindiaspora.com](https://joindiaspora.com/people/4cfca20a2c17431c6b001d3e)
+
  
 
 
