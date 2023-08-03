@@ -24,4 +24,4 @@ Jaysen Naidoo - dreams of public software. living in Johannesburg, South Africa.
 
 
 ## contact
-send me a direct message on [twitter](http://twitter.com/jaysen) if you need to get in touch.
+send me a direct message on [twitter](http://twitter.com/jaysen) or [mastodon](https://hachyderm.io/@jaysen) if you need to get in touch.
