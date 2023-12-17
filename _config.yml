@@ -9,5 +9,5 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jaysen
 github_username:  jaysen
 
-#theme: jekyll-theme-midnight
-theme: minima
+theme: jekyll-theme-midnight
+#theme: minima
