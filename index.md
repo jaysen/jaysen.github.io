@@ -3,7 +3,8 @@ Jaysen Naidoo - dreams of public software. living in Johannesburg, South Africa.
 
 ## online
 
-- [@jaysen on twitter](http://twitter.com/jaysen)
+- [my public-txt instance](https://jaysen.co.za/txt/) - a public bliki and knowledge platform - see [the PublicTxt Project](https://github.com/publictext/publictext)
+- [@jaysen on twitter](https://twitter.com/jaysen)
 - [my facebook page](https://facebook.com/jaysenn)
 - <a rel="me" href="https://hachyderm.io/@jaysen">@jaysen@hachyderm.io (mastodon)</a>
 - [jaysen@joindiaspora.com](https://joindiaspora.com/people/4cfca20a2c17431c6b001d3e)
